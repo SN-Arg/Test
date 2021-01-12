@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="coluntest" label="ColUNTest" language="en" table="x_379353_test_git_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>coluntest</element>
+            <help/>
+            <hint/>
+            <label>ColUNTest</label>
+            <language>en</language>
+            <name>x_379353_test_git_test</name>
+            <plural>ColUNTests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>nico</sys_created_by>
+            <sys_created_on>2021-01-12 19:03:47</sys_created_on>
+            <sys_id>12f64d67dba12010c88314613996191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ColUNTest</sys_name>
+            <sys_package display_value="Test Git" source="x_379353_test_git">7aa00123dba12010c88314613996198e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Git">7aa00123dba12010c88314613996198e</sys_scope>
+            <sys_update_name>sys_documentation_x_379353_test_git_test_coluntest_en</sys_update_name>
+            <sys_updated_by>nico</sys_updated_by>
+            <sys_updated_on>2021-01-12 19:03:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
