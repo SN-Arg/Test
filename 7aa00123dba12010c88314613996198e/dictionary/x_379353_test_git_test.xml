@@ -3,6 +3,7 @@
         <element label="Col1" max_length="40" name="col1" type="string"/>
         <element label="Col2" max_length="40" name="col2" type="integer"/>
         <element label="Col3" max_length="40" name="col3" type="boolean"/>
+        <element label="ColUNTest" max_length="40" name="coluntest" type="glide_date"/>
         <element choice="1" label="colUtest" max_length="40" name="colutest" type="choice">
             <choice/>
         </element>
